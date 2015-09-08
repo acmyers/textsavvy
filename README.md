@@ -1,4 +1,6 @@
 # textsavvy
 =============
-![ScreenShot](https://raw.github.com/acmyers/textsavvy/master/textsavvy_simple_ux.pdf)
-![ScreenShot](https://raw.github.com/acmyers/textsavvy/master/textsavvy_flow.pdf)
+see
+textsavvy_simple_ux.pdf
+&
+textsavvy_flow.pdf
